@@ -1,0 +1,5 @@
+junk
+*.swp
+file
+bin/*
+node_modules
